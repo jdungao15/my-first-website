@@ -1,0 +1,28 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	text-align: center;
+	background-color: #445069;
+}
+
+h1 {
+
+	font-size: 4rem;
+	color: #5B9A8B;
+	text-transform: uppercase;
+}
+
+img {
+	border-radius: 50%;
+	height: 50%;
+	width: 50%;
+
+}
+
+p {
+	color: #F7E987;
+	font-size: 1.3rem;
+}
